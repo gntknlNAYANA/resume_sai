@@ -4,5 +4,42 @@
       "name":"B.Sai yamini",
       "email" : "sainayana1998@gmail.com",
       "phone": "9848675284"
+  },
+  "education":[
+  {
+    "course":"B.Tech(C.S.E)",
+    "college":["Ravindra engineering college for women",
+    "2015-2019",
+    "84%"
+  ]
+},
+{
+  "course":"Intermediate(M.P.C)",
+  "college":["narayana junior college",
+  "2013-2015",
+  "94%"
+]
+},
+{
+  "course":"SSC",
+  "college":["Ravindra school",
+  "2012-2013",
+  "88%"
+]
+}
+],
+"skills":[
+  {
+    "name":"operating systems",
+    "value":"windows,UNIX"
+  },
+  {
+    "name":"programming languages",
+    "value":"c,c++,java"
+  },
+  {
+    "name":"web development",
+    "value":"html,python,.net"
   }
+]
 }
